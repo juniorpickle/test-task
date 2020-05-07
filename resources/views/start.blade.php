@@ -74,7 +74,7 @@
                 </div>
                 <div class="form-group" id="formEmail">
                     <label for="email">Введите email</label>
-                    <input type='email' class="" name='email' id='email' style="width: 250px" placeholder='Введите email' value='testtaskwork@gmail.com'><br>
+                    <input type='email' class="" name='email' id='email' style="width: 250px" placeholder='Введите email' value='email@email.com'><br>
                 </div>
                 <button type="button" id='btn-weather' class='btn btn-primary btn-lg'>Узнать погоду</button>
             </form>
